@@ -1,0 +1,40 @@
+{
+  "placeholderImages": [
+    {
+      "id": "background",
+      "description": "Abstract pattern of keys and locks",
+      "imageUrl": "https://images.unsplash.com/photo-1631083354486-01e4f4a7d1d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxsb2Nrc21pdGglMjBiYWNrZ3JvdW5kfGVufDB8fHx8MTc2MTg3NTIyMXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "locksmith background"
+    },
+    {
+      "id": "carousel-1",
+      "description": "A locksmith carefully installing a new, high-security lock on a modern front door.",
+      "imageUrl": "https://images.unsplash.com/photo-1732384001863-59ecbb9dd827?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8bG9jayUyMGluc3RhbGxhdGlvbnxlbnwwfHx8fDE3NjE4NzUyMjF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "lock installation"
+    },
+    {
+      "id": "carousel-2",
+      "description": "A friendly locksmith unlocking a car door for a relieved customer.",
+      "imageUrl": "https://images.unsplash.com/photo-1707296916219-4f2d7529a4c5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxhdXRvbW90aXZlJTIwbG9ja3NtaXRofGVufDB8fHx8MTc2MTg3NTIyMXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "automotive locksmith"
+    },
+    {
+      "id": "carousel-3",
+      "description": "A set of freshly duplicated keys lying on a counter.",
+      "imageUrl": "https://images.unsplash.com/photo-1756341782434-3020b9d17372?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxrZXklMjBkdXBsaWNhdGlvbnxlbnwwfHx8fDE3NjE4NzUyMjF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "key duplication"
+    },
+    {
+      "id": "carousel-4",
+      "description": "A close-up of an intricate lock mechanism.",
+      "imageUrl": "https://images.unsplash.com/photo-1759452003649-552896c8ed63?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxsb2NrJTIwbWVjaGFuaXNtfGVufDB8fHx8MTc2MTg3NTIyMXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "lock mechanism"
+    },
+    {
+      "id": "carousel-5",
+      "description": "A locksmith working at night, illuminated by a flashlight, showcasing 24/7 service.",
+      "imageUrl": "https://images.unsplash.com/photo-1553293377-e51189852c0b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxlbWVyZ2VuY3klMjBsb2Nrc21pdGh8ZW58MHx8fHwxNzYxODc1MjIxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "emergency locksmith"
+    }
+  ]
+}
